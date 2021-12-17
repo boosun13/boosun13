@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi! I'm boosun13 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=boosun13&count_private=true)](https://github.com/boosun13/github-profile-trophy)
 
-  
 ![yoshimasa_shuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=boosun13&count_private=true&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boosun13&count_privat&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
